@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+uploads/
+browser_session/
+.env
+.venv/
